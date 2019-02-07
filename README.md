@@ -2,7 +2,9 @@
 
 ### Dependencies:
 -Requires Max 8 - uses MC objects
+
 -smFilterPack by Surreal Machines
+
 -LowKeyNW by Nathan Wolek
 
 ## Run:
