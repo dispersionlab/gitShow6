@@ -81,7 +81,7 @@ What you say about your changes (and how often you commit them) helps participan
 
 4. You can modify the patch around the module: connect/disconnect cables, add modules available in the vcv plugin browser (right-click the dark-grey background of VCV Rack), or remove modules. Remember to save and then 
 	
-5. Edit a new version of the score, making *any* changes you want. For the score, consider that a markdown file can embed images, tables etc. See the file markdown_examples.md for help with markdown. 
+5. Edit a new version of the file score#.md, making *any* changes you want. It can be text-based, graphic based, etc. Consider that a markdown file can embed images, tables etc. See the file [markdown_examples.md file](https://github.com/dispersionlab/gitShow6/blob/master/markdown_examples.md) for help with writing markdown. 
 
 6. Make a short recording of your patch using the *Record* module:
 
